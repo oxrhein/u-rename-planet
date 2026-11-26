@@ -8,7 +8,7 @@ a funny new name for Saturn plus the why, in a single line under
 import os
 
 LINE = (
-    "Rename Saturn 'Buffering' -- it's been loading its rings for "
+    "Rename Saturn 'Buffering' — its rings have been loading for "
     "4.5 billion years and the bar hasn't moved."
 )
 
